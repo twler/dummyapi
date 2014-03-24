@@ -1,6 +1,7 @@
 A simple JSON API with dummy User and Item paths that give random data on command, rate-limited to 60 requests per minute.  Use this site as your dummy API, or clone and modify for your own purposes.
 
-http://github.com/twler/dummyapi
+Repo at http://github.com/twler/dummyapi
+Demo API at http://dummyapi.herokuapp.com
 
 Note: the api_key parameter must be set to 123456789 for each request or you will receive an error.
 
@@ -30,7 +31,7 @@ Returns an Item with the following parameters:
 
 `:id` (set to number in path), `:title`, `:category`, `:color`, `:code`, `:user_id`, `:created_at`
 
-    /api/v1/items/456</pre>
+    /api/v1/items/456
     
 Also accepts the `user_id` option, which will set the user_id
 
