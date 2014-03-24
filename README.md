@@ -4,7 +4,7 @@ Repo at http://github.com/twler/dummyapi
 
 Demo API at http://dummyapi.herokuapp.com
 
-Note: the api_key parameter must be set to 123456789 for each request or you will receive an error.
+    # Note: the api_key parameter must be set to 123456789 for each request or you will receive an error.
 
 **Users List**
 
