@@ -1,6 +1,6 @@
 A simple JSON API with dummy User and Item paths that give random data on command, rate-limited to 60 requests per minute.  Use this site as your dummy API, or clone and modify for your own purposes.
 
-Repo at http://github.com/twler/dummyapi
+Repo at http://github.com/tyrw/dummyapi
 
 Demo API at http://dummyapi.herokuapp.com
 
